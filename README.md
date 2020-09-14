@@ -11,9 +11,10 @@ pip install foobar
 ```
 
 ## Usage
+The usage of this consist in two steps the first ist hhabjabhja the sdfaja dring. 
 
 ### Trainnig
-
+To traint your model onwenfdjfkajdkfalkjnflasdfklasjfkajkdasjfçasdjfaskdjfaskfajsklfjklajfdsljkljaçjfdkfasdk
 
 ```python
 import foobar
@@ -23,6 +24,8 @@ foobar.pluralize('goose') # returns 'geese'
 foobar.singularize('phenomena') # returns 'phenomenon'
 ```
 ### Driving
+After trainning your model blablalbbabkafkbjak
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
